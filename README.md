@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Its done I've done it. Moved from windonws to linux ;).
 - -->
+- [![wakatime](https://wakatime.com/badge/github/TheJordach/Mortgage-calc.svg)](https://wakatime.com/badge/github/TheJordach/Mortgage-calc)
